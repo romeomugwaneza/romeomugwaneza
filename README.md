@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey, I'm Romeo 👋
 
+More info on my [website](https:///iamromeo.dev)
 <!--
 **romeomugwaneza/romeomugwaneza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
